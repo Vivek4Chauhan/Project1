@@ -1,0 +1,18 @@
+body {
+    background-color: yellowgreen;
+}
+
+h1 {
+    padding-left: 150px;
+    color: orange;
+}
+
+h2 {
+    padding-left: 150px;
+    color: rgb(25, 0, 255);
+}
+
+p {
+    padding-left: 100px;
+    color: red;
+}
